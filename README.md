@@ -6,7 +6,7 @@ This project presents the design, simulation, and experimental validation of a v
 Key Features
 
 Topology: Simplified full-bridge voltage-fed converter with transformer-based isolation
-Voltage Gain: ~5× (80 V → 400 V)
+Voltage Gain: 5× (80 V → 400 V)
 Efficiency: Achieved 87.6 % in hardware testing
 Simulation Tools: MATLAB/Simulink and PLECS for modeling and waveform analysis
 Hardware Components: SiC MOSFETs (IMW120R045M1), SiC diodes (IDWD20G120C5), WaveCT WCU300 controller, and CHROMA power systems
@@ -22,7 +22,7 @@ Analysis: Measured voltage and current waveforms, efficiency, and total harmonic
 
 Results
 
-Output voltage: ~418 V (hardware) vs. ~455 V (simulation)
+Output voltage: 418 V (hardware) vs. 455 V (simulation)
 Efficiency: 87.6 % confirmed via MSO power analysis
 Demonstrated stable operation and high-gain voltage conversion suitable for solar, EV subsystems, and DC laboratory setups.
 
